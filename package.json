@@ -1,0 +1,20 @@
+{
+  "name": "cli-atm-machine-with-ts-by-zb",
+  "version": "1.0.0",
+  "description": "This is a CLI based ATM machine program made with typescript by Zayn Baloch.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zay Baloch",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.22",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
